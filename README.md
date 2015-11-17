@@ -9,6 +9,7 @@
    *_connection_string = 'DRIVER={SQL  Server};SERVER=172.16.16.170,49333;DATABASE=HQAssignment;UID=sa;PWD=Passwd@321'_*
 
 ###To test the API, the steps to be followed are :###
+1. Keep the **"GetBestDealsAPI.py"** file in the *"C:\Python33\pypyodbc-1.3.3\pypyodbc-1.3.3\"* location
 
 
 
