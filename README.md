@@ -19,6 +19,12 @@
 6. You should get the required output.
 
 
+**Whenever we run the command prompt and the above commands, we get the following ouput. I have attached some screenshots,
+  of a demo run**
+
+
+
+
 
 
 
