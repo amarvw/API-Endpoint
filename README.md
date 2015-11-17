@@ -21,6 +21,8 @@
 
 **Whenever we run the command prompt and the above commands, we get the following ouput. I have attached some screenshots,
   of a demo run**
+  
+**NOTE** : Please check the wiki, for the images of the demo outout and start of service
 
 
 
