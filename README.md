@@ -8,6 +8,8 @@
  5. **Database connection** **:** 
    *_connection_string = 'DRIVER={SQL  Server};SERVER=172.16.16.170,49333;DATABASE=HQAssignment;UID=sa;PWD=Passwd@321'_*
 
+###To test the API, the steps to be followed are :###
+
 
 
 
